@@ -1,0 +1,57 @@
+{
+	"$baseURI": "https://yal.cc/r/20/pixelfont/",
+	"$version": "1.0",
+	"in-glyphs": [
+		" !\"#$%&'()*+,-./",
+		"0123456789:;<=>?",
+		"@ABCDEFGHIJKLMNO",
+		"PQRSTUVWXYZ[\\]^_",
+		"`{|}~∎"
+	],
+	"glyph-color": "black",
+	"glyph-width": 8,
+	"glyph-height": 8,
+	"glyph-ofs-x": 0,
+	"glyph-ofs-y": 0,
+	"glyph-sep-x": 0,
+	"glyph-sep-y": 0,
+	"glyph-base-x": 0,
+	"glyph-baseline": 6,
+	"glyph-spacing": 1,
+	"font-is-mono": false,
+	"font-em-square": 1024,
+	"font-line-gap": 0,
+	"font-ascend": 768,
+	"font-descend": -256,
+	"font-px-size": 128,
+	"contour-type": "pixel",
+	"font-type": "ttf",
+	"font-is-upper": true,
+	"font-name": "pixelcave",
+	"font-author": "noobiezt0",
+	"font-copy": "(c) noobiezt0 2025",
+	"font-version-major": 1,
+	"font-version-minor": 1,
+	"font-desc": "a font.",
+	"font-license": "MIT License",
+	"font-license-url": "https://github.com/noobiezt0/pixelcave/blob/main/LICENSE",
+	"font-sample-text": [
+		"a simple sample text."
+	],
+	"font-embedding": "4",
+	"font-weight-class": "700",
+	"font-width-class": "5",
+	"font-creation-date": "2025-03-16",
+	"font-creation-time": "23:34",
+	"font-modification-date": "2025-03-26",
+	"font-modification-time": "17:40",
+	"font-modification-auto": true,
+	"overrides": [
+		""
+	],
+	"font-preview-text": [
+		"THE QUICK BROWN FOX JUMPS OVER A LAZY DOG.",
+		"the quick brown fox jumps over a lazy dog.",
+		"0123456789"
+	]
+}
