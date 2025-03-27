@@ -29,11 +29,11 @@
 	"font-is-upper": true,
 	"font-name": "pixelcave",
 	"font-author": "noobiezt0",
-	"font-copy": "(c) noobiezt0 2025",
+	"font-copy": "(c) 2025 noobiezt0",
 	"font-version-major": 1,
-	"font-version-minor": 1,
+	"font-version-minor": 3,
 	"font-desc": "a font.",
-	"font-license": "MIT License",
+	"font-license": "MIT",
 	"font-license-url": "https://github.com/noobiezt0/pixelcave/blob/main/LICENSE",
 	"font-sample-text": [
 		"a simple sample text."
@@ -44,7 +44,7 @@
 	"font-creation-date": "2025-03-16",
 	"font-creation-time": "23:34",
 	"font-modification-date": "2025-03-26",
-	"font-modification-time": "17:40",
+	"font-modification-time": "20:20",
 	"font-modification-auto": true,
 	"overrides": [
 		""
