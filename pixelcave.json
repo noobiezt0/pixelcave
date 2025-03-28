@@ -47,7 +47,7 @@
 	"font-modification-time": "20:20",
 	"font-modification-auto": true,
 	"overrides": [
-		""
+		"hide \\s"
 	],
 	"font-preview-text": [
 		"THE QUICK BROWN FOX JUMPS OVER A LAZY DOG.",
